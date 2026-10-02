@@ -1,0 +1,13 @@
+{
+  "name": "fake-production-system",
+  "version": "1.0.0",
+  "description": "A fake production system for AI incident resolution",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
+
